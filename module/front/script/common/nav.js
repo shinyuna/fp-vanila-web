@@ -15,3 +15,4 @@ function init(){
     click.addEventListener("click", handleClick);
 }
 init();
+
